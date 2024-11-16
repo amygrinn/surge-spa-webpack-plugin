@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/tygr-development/surge-spa-webpack-plugin.svg?branch=master)](https://travis-ci.org/tygr-development/surge-spa-webpack-plugin)
+**This package has been [moved here](https://gitlab.com/grinn.amy/surge-spa-webpack-plugin).**
 
 # Surge SPA Webpack Plugin
 
